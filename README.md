@@ -4,6 +4,8 @@ Each folder represents a year
 
 ## 2023
 
+Python
+
 | Day | Problem                                   | Status       |
 |-----|-------------------------------------------|--------------|
 | 1   | [Day 1](Link_to_2023/01)                  | [x] Completed|
