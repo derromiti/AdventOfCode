@@ -8,8 +8,8 @@ Python
 
 | Day | Problem                                   | Status       |
 |-----|-------------------------------------------|--------------|
-| 1   | [Day 1](Link_to_2023/01)                  | [x] Completed|
-| 2   | [Day 2](Link_to_2023/02)                  | [x] Completed|
+| 1   | [Day 1](Link_to_2023/01)                  | [ ] Completed|
+| 2   | [Day 2](Link_to_2023/02)                  | [ ] Completed|
 | 3   | [Day 3](Link_to_2023/03)                  | [ ] Completed|
 | 4   | [Day 4](Link_to_2023/04)                  | [ ] Completed|
 | 5   | [Day 5](Link_to_2023/05)                  | [ ] Completed|
